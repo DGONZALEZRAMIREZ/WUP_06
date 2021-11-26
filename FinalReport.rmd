@@ -179,3 +179,6 @@ Because we have more data available as depicted above, the Fisher XY test was ab
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+Because we have more data available as depicted in the above charts, tables, and in the Fisher XY test, these were able to show us that the different test groups are entirely different from each other. The white, black, and other groups have many differences of opinion regarding their stance on capital punishment.
