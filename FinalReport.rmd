@@ -81,6 +81,9 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+In the table above there is still a dominant opinion within the white and other groups; it is almost 2:1. (68.23% to 68.75%) in favor and (31.77% to 31.25%) that they oppose capital punishment. However, the black group seems to be tied (favor 49.55% to oppose 50.45%) in terms of their stance on capital punishment.
+
+
 
 ## Inferential Results
 
