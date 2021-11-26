@@ -62,7 +62,9 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-According to the plots above, Black people oppose capital punishment. On the other hand, white and other races are in favor of this type of punishment.
+
+According to the bar charts above, black people tend to oppose capital punishment. On the other hand, white and other races are in favor of this type of punishment.
+
 
 ### Numerical Descriptive Results
 
@@ -78,6 +80,10 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
+
+
+This table reaffirms our percentages depicted on the previous charts. 68% of the white group are in favor of capital punishment, 46% of the black group oppose it. In the other group 55% of them were in favor.
+
 
 
 ## Inferential Results
@@ -166,6 +172,9 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+
+Because we have more data available as depicted above, the Fisher XY test was able to show us that the different test groups are entirely different from each other. The white, black, and other groups have many differences of opinion.
+
 
 # Discussion and Conclusion
 
