@@ -63,6 +63,8 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+This data illustrates a key difference in obtaining more data on the groups opinion. In the chart above the black group almost has an equal percentage of people in favor or opposing capital punishment. It also shows that the white group and the other group favor capital punishment at almost an equal percentage.
+
 
 ### Numerical Descriptive Results
 
