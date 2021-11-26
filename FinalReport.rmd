@@ -170,7 +170,8 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
- 
+
+The Fisher test shows us that the Black and the Other group are indeed different. It also shows us that the white and the black group are different. It does not show any more differences between the other and the white groups. Their stance on capital punishment remains the same.
 
 # Discussion and Conclusion
 
